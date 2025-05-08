@@ -35,11 +35,10 @@ PS: Part 2 contains the basic functionality of Sage. Only part 3 of the repo is 
 
 ## 📚 Topics Covered
 
-- Defining Groups in Sage
-- Matrix Representations
-- Permutation, Regular, and Standard Representations
-- Character Tables and Irreducibles
-- Decomposition into Irreducibles
+- ✅ Variable assignment, exact arithmetic
+- ✅ Solving differential equations and symbolic algebra in Sage
+- ✅ Constructing matrix representations of finite groups
+- ✅ Key examples: trivial, permutation, regular, and standard representations
 
 ## 📖 References
 
