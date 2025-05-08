@@ -1,4 +1,4 @@
-# 📘 SageMath Representation Theory Tutorial
+# 📘 SageMath Tutorial
 
 Author: Yolanda Ba
 
@@ -17,9 +17,11 @@ This repository contains a step-by-step, code-driven guide to learning **represe
 | `3.RepTheory_code.ipynb` | Jupyter notebook for representation theory with live examples. |
 | `3.Sage_RepTheory_tutorial.md` | Full markdown cheat-sheet covering group representations, characters, standard/regular representations, and more. |
 
+PS: Part 2 contains the basic functionality of Sage. Only part 3 of the repo is focus on rep theory. 
+
 ## 🔧 Requirements
 
-- [SageMath](https://www.sagemath.org/) ≥ 10.0  
+- [SageMath](https://www.sagemath.org/)
 - Jupyter or compatible Markdown viewer  
 - Basic knowledge of group theory recommended
 
